@@ -42,7 +42,7 @@
       "sha256": "4fb2a0722810deca116bdcd7ae4d1736e9252c23833e83bf180a402ed6c031d1"
     },
     "docs/install/agents-marketplace.md": {
-      "sha256": "901279f8579ddcc990bbde5f9db19376d3f67cd058445d2955978d0d1a4824ff"
+      "sha256": "a0136a99de70cc09fc6a43410e70b36dd1bb5cef7c316b42965a23d17d60c285"
     },
     "docs/install/claude-code.md": {
       "sha256": "a7fa417b1600c9e6c640698992f99a94f82f4280e1e4fc146acfb7ba2af48c09"
@@ -60,7 +60,7 @@
       "sha256": "c6aeca1d5fea47874a66748cbab2ff1691b762caed8d95d50376e329655df754"
     },
     "docs/install/hermes.md": {
-      "sha256": "dd1d4be5215884df16f78c045e0166eeaaa68c40c530cdfc286c51d451b7abd0"
+      "sha256": "ad1824eaa118354f38130d119e950c60701fbc652d48b3c9959602cab68adbb3"
     },
     "docs/install/kimi.md": {
       "sha256": "c136bcb390accd32bf21adf3e1e5da19bf8e2dd048f9bc0c520c2c89963e497a"
