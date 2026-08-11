@@ -5,7 +5,7 @@
 ## What gets emitted
 
 - `gemini-extension.json`
-- `GEMINI.md`, importing the generated bootstrap file at `hooks/everyharness/bootstrap.md` (also emitted) via Gemini's `@`-import syntax
+- `GEMINI.md`, pointing at the plugin's skills directory (no bootstrap configured)
 
 ## Installing
 

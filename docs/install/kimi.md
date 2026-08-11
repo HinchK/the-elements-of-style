@@ -13,7 +13,3 @@
 ```
 
 Or find it through the Kimi marketplace. Consult Kimi Code's plugin docs if this command doesn't match your installed version.
-
-## Caveats
-
-- Kimi's `sessionStart` only supports a named bootstrap skill; `bootstrap.generate` is not supported on Kimi.

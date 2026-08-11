@@ -5,7 +5,6 @@
 ## What gets emitted
 
 - `.hermes-plugin/plugin.yaml` and `.hermes-plugin/__init__.py`, which register every skill natively and (when bootstrap is configured) inject bootstrap content via `pre_llm_call`
-- the generated bootstrap file at `hooks/everyharness/bootstrap.md`
 
 ## Installing
 

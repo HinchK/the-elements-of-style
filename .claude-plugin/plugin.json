@@ -15,6 +15,5 @@
     "grammar",
     "composition",
     "clarity"
-  ],
-  "hooks": "./hooks/everyharness/hooks.json"
+  ]
 }

@@ -5,8 +5,7 @@
 ## What gets emitted
 
 - `package.json` (shared with the pi adapter when both are active)
-- `.opencode/plugins/elements-of-style.js`, the OpenCode plugin module that registers the plugin's skills directory and injects bootstrap context
-- the generated bootstrap file at `hooks/everyharness/bootstrap.md`
+- `.opencode/plugins/elements-of-style.js`, the OpenCode plugin module that registers the plugin's skills directory
 
 ## Installing
 

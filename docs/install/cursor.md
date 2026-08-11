@@ -5,7 +5,6 @@
 ## What gets emitted
 
 - `.cursor-plugin/plugin.json`
-- the `hooks/everyharness` bootstrap hook and its `hooks/everyharness/hooks-cursor.json`
 
 ## Installing
 

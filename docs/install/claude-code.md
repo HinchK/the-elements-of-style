@@ -5,7 +5,6 @@
 ## What gets emitted
 
 - `.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`
-- the `hooks/everyharness` bootstrap hook and its merged `hooks/everyharness/hooks.json`
 
 ## Installing
 
@@ -20,7 +19,3 @@ claude /plugin marketplace add obra/elements-of-style
 ```
 
 If the marketplace is already registered, only the install command is needed. Consult Claude Code's plugin docs if these commands don't match your installed version.
-
-## Caveats
-
-- Hand-written entries in `hooks/hooks.json` are merged into the generated `hooks/everyharness/hooks.json`; edit the source file, not the generated file.

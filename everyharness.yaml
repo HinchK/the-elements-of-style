@@ -13,5 +13,9 @@ keywords:
   - grammar
   - composition
   - clarity
+# Every harness everyharness targets discovers skills natively, and this
+# plugin ships exactly one skill with a description that already says when to
+# invoke it. A session-start injection would buy nothing and cost context in
+# every session.
 bootstrap:
-  generate: true
+  none: true

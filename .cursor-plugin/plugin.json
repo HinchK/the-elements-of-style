@@ -17,6 +17,5 @@
     "composition",
     "clarity"
   ],
-  "skills": "./skills/",
-  "hooks": "./hooks/everyharness/hooks-cursor.json"
+  "skills": "./skills/"
 }
