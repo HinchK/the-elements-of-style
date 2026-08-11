@@ -1,4 +1,0 @@
-# everyharness emits shell hooks that must keep LF endings on every platform;
-# without this, autocrlf checkouts rewrite them and `everyharness validate`
-# reports drift.
-hooks/everyharness/* text eol=lf
