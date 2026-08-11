@@ -6,15 +6,14 @@
     "name": "Jesse Vincent",
     "url": "https://github.com/obra"
   },
-  "license": "Public Domain",
-  "repository": "https://github.com/obra/elements-of-style",
   "homepage": "https://github.com/obra/elements-of-style",
+  "repository": "https://github.com/obra/elements-of-style",
+  "license": "Public Domain",
   "keywords": [
     "writing",
     "style",
     "grammar",
     "composition",
     "clarity"
-  ],
-  "hooks": "./hooks/everyharness/hooks.json"
+  ]
 }
