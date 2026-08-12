@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "tool": "everyharness@0.5.0",
+  "tool": "everyharness@0.7.0",
   "files": {
     ".agents/plugins/marketplace.json": {
       "sha256": "d07f73b8110bec7921beb4c2245658c10a063b1043aba3ca5cae4676dce4c48b"
@@ -42,7 +42,7 @@
       "sha256": "4fb2a0722810deca116bdcd7ae4d1736e9252c23833e83bf180a402ed6c031d1"
     },
     "docs/install/agents-marketplace.md": {
-      "sha256": "a0136a99de70cc09fc6a43410e70b36dd1bb5cef7c316b42965a23d17d60c285"
+      "sha256": "8c78360c2ddf4efff8f549f662e042f84e86f67fb125688dad48a3a6355a3c99"
     },
     "docs/install/claude-code.md": {
       "sha256": "a7fa417b1600c9e6c640698992f99a94f82f4280e1e4fc146acfb7ba2af48c09"
